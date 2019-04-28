@@ -1,0 +1,8 @@
+[rq]
+;登录后把Cookie复制到此处
+cookie= 
+;登录后把请求的参数复制到此处
+params=
+startTime=
+endTime=
+url=https://mbillexprod.alipay.com/enterprise/fundAccountDetail.json
